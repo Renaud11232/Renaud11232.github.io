@@ -17,8 +17,6 @@ The goal was the same as in [Ancient Writings #2](../../Qualifiers/ancient_writi
 >                                                    >  ^      <
 
 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZv^<>0123456789abcdefghijklmnopqrstuvwxyz
-
-
 ```
 
 This one was way harder than the previous ones as the "path" the code execution takes was not the same at all, and the stack was filled with garbage on purpose.
