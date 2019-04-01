@@ -1,3 +1,3 @@
 # Welcome
 
-### [~$cd /home/renaud/ctf](./ctf)
+### [~$cd ctf](./ctf/)
