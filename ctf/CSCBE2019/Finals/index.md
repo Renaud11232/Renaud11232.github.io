@@ -12,4 +12,5 @@ By the end of the four 4 hours rounds we managed to get to the 7th place.
 
 * [Ancient Writings #3](./ancient_writings_3/)
 * [Hamlet](./hamlet/)
+* [Failing For XOR](./failing_for_xor/)
 * [Let's Dance](./lets_dance/)
