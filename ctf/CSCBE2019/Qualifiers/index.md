@@ -2,7 +2,7 @@
 
 ### [~$ cd ..](../)
 
-Here are the challenges we managed to fully or partially solve during the Qualifiers.
+Here are some of the challenges we managed to fully or partially solve during the Qualifiers.
 
 By the end of the 32 contest hours, we managed to get to the 10th place.
 

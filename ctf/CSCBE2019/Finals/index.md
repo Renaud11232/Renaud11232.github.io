@@ -2,7 +2,7 @@
 
 ### [~$ cd ..](../)
 
-Here are the challenges we managed to fully or partially solve during the Finals.
+Here are some of the challenges we managed to fully or partially solve during the Finals.
 
 By the end of the four 4 hours rounds we managed to get to the 7th place.
 
