@@ -1,4 +1,4 @@
 # CTF-related Stuff
 
-### [~$cd ..](../)
-### [~$cd CSCBE2019](./CSCBE2019)
+### [~$ cd ..](../)
+### [~$ cd CSCBE2019](./CSCBE2019)

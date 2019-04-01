@@ -1,3 +1,3 @@
 # Welcome
 
-### [~$cd ctf](./ctf/)
+### [~$ cd ctf](./ctf/)
