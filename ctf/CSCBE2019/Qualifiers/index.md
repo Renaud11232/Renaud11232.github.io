@@ -12,3 +12,4 @@ By the end of the 32 contest hours, we managed to get to the 10th place.
 
 * [Alien Object](./alien_object/)
 * [Ancient Writings #1](./ancient_writings_1/)
+* [Ancient Writings #2](./ancient_writings_2/)
