@@ -174,6 +174,6 @@ Speak your mind!
 For a very long time we had no clue on what to do with this, and it's right at the end that we thought about the `Shakespeare Programming Language`.
 And indeed once the whole code was passed into an interpreter we got the flag. The problem is we got it after the end of the timer.
 
-![ouput](assets/output.png)
+![output](assets/output.png)
 
 NEARLY DONE
