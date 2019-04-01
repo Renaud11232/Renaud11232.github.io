@@ -10,6 +10,4 @@
 
 ### [~$ cd Qualifiers](./Qualifiers)
 
-### [~$ cd PreFinals](./PreFinals)
-
 ### [~$ cd Finals](./Finals)
