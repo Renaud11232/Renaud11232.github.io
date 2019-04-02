@@ -42,7 +42,7 @@ And after a bit of tinkering we just tried with `**`
 So we knew how our input was concatenated into the filter :
 
 ```python
-"(&(objectClass=posixAccount)(uid=%s))" % (name))
+"(&(objectClass=posixAccount)(uid=%s))" % (name)
 ```
 
 `&` is a `and`. So one way of logging in as the admin was to filter `posixAccount`s `all` of them then only filter the `admin` one:
