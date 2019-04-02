@@ -6,7 +6,7 @@ For this challenge, we were given a sheet of paper with some cryptograms :
 
 ![cryptograms](assets/symbols.png)
 
-We knew a few of these but not most of them so we went to [dCode.fr](www.dcode.fr) to find the missing substitution alphabets.
+We knew a few of these but not most of them so we went to [dCode.fr](http://www.dcode.fr) to find the missing substitution alphabets.
 
 Here is the list of all alphabets in this text by order of appearance :
 
