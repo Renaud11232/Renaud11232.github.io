@@ -16,3 +16,4 @@ By the end of the four 4 hours rounds we managed to get to the 7th place.
 * [John Cage](./john_cage/)
 * [Let's Dance](./lets_dance/)
 * [Password](./password/)
+* [Rosetta](./rosetta/)
