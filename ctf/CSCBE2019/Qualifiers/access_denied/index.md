@@ -1,8 +1,8 @@
 # Access Denied
 
-Author: [BorelEnzo](https://borelenzo.github.io/CTFs/CSC_BE_2019/access_denied/)
-
 ### [~$ cd ..](../)
+
+Author: [BorelEnzo](https://borelenzo.github.io/CTFs/CSC_BE_2019/access_denied/)
 
 We were given the following [bash script](assets/update.bin):
 

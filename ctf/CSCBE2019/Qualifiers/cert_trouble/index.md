@@ -1,8 +1,8 @@
 # Cert Trouble
 
-Author: [BorelEnzo](https://borelenzo.github.io/CTFs/CSC_BE_2019/cert_trouble/)
-
 ### [~$ cd ..](../)
+
+Author: [BorelEnzo](https://borelenzo.github.io/CTFs/CSC_BE_2019/cert_trouble/)
 
 We didn't manage to solve this challenge during the event, but found the solution afterwards.
 
