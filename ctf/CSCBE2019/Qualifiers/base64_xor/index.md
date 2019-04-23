@@ -1,5 +1,4 @@
-# Base64 + xor = <3 (Crypto)
-
+# Base64 + xor = <3
 ### [~$ cd ..](../)
 
 Author: [BorelEnzo](https://borelenzo.github.io/CTFs/CSC_BE_2019/base64_xor/)
