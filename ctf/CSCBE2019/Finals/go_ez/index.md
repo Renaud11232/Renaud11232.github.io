@@ -1,4 +1,4 @@
-## Go EZ - Reverse (150 pts)
+## Go EZ - Reverse
 
 ### [~$ cd ..](../)
 
