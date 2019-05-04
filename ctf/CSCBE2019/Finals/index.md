@@ -10,6 +10,7 @@ By the end of the four 4 hours rounds we managed to get to the 7th place.
 
 ### ~$ ls
 
+* [Alarmed](./alarmed/)
 * [Ancient Writings #3](./ancient_writings_3/)
 * [Crack Me](./crack_me/)
 * [Crack Me 2](./crack_me_2/)
