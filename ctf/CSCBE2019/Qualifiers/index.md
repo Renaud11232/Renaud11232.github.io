@@ -20,5 +20,5 @@ By the end of the 32 contest hours, we managed to get to the 10th place.
 * [Digital Brussels](./digital_brussels/)
 * [Dragon.E01](./dragon_e01/)
 * [Hacker C4tz](./hacker_c4tz/)
-* [Jain Break](./jail_break/)
+* [Jail Break](./jail_break/)
 * [OhMyPad](./oh_my_pad/)
